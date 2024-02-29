@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T20:50:58 IST" name="Default suite" finished-at="2024-02-29T20:51:11 IST" duration-ms="12509">
+    <groups>
+    </groups>
+    <test started-at="2024-02-29T20:50:58 IST" name="Default test" finished-at="2024-02-29T20:51:11 IST" duration-ms="12509">
+      <class name="LloydsBank.Lloyds">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LloydsBank.Lloyds@6af9fcb2]" started-at="2024-02-29T20:50:58 IST" name="setUp" finished-at="2024-02-29T20:51:00 IST" duration-ms="1267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LaunchURLandBranchFinder()[pri:0, instance:LloydsBank.Lloyds@6af9fcb2]" started-at="2024-02-29T20:51:00 IST" name="LaunchURLandBranchFinder" finished-at="2024-02-29T20:51:11 IST" duration-ms="10943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchURLandBranchFinder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LloydsBank.Lloyds@6af9fcb2]" started-at="2024-02-29T20:51:11 IST" name="tearDown" finished-at="2024-02-29T20:51:11 IST" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LloydsBank.Lloyds -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
